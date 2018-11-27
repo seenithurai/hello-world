@@ -1,0 +1,36 @@
+Python Language
+print("Hello world")
+
+
+C Language
+#include <stdio.h>
+int main()
+{
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+
+
+C++ Language
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    cout << "Hello, World!";
+    return 0;
+}
+
+Fortran Language
+program hello
+    print *, "Hello World!"
+end program hello
+
+bash script
+#!/usr/bin/env bash
+echo "hello world"
+
+csh script
+#!/bin/csh -f
+echo Hello, World!
